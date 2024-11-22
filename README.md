@@ -26,3 +26,5 @@ Este proyecto utiliza las siguientes librerías:
 - [NumPy](https://numpy.org/) para la manipulación de matrices.
 - [Matplotlib](https://matplotlib.org/) para la visualización de resultados.
 
+pip install opencv-python-headless numpy matplotlib
+
